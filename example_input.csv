@@ -1,0 +1,4 @@
+Host,macaddress,ip
+host1,ffff:ffff:ffff:fffe,192.168.0.1
+host2,ffff:ffff:ffff:fffa,192.168.0.2
+host3,ffff:ffff:ffff:fffd,192.168.0.3
